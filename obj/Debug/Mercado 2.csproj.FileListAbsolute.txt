@@ -1,0 +1,84 @@
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\Mercado 2.exe.config
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\Mercado 2.exe
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\Mercado 2.pdb
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\MySql.Data.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\Google.Protobuf.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\ZstdNet.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\System.Memory.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\System.Buffers.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\bin\Debug\MySql.Data.xml
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\obj\Debug\Mercado 2.csproj.AssemblyReference.cache
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\obj\Debug\Mercado 2.exe.config
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\obj\Debug\Mercado 2.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\obj\Debug\Mercado 2.csproj.CopyComplete
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\obj\Debug\Mercado 2.exe
+C:\Users\gustavo.roliveira24\source\repos\Mercado 2\Mercado 2\obj\Debug\Mercado 2.pdb
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\Mercado 2.exe.config
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\Mercado 2.exe
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\Mercado 2.pdb
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\MySql.Data.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\Google.Protobuf.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\ZstdNet.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\System.Memory.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\System.Buffers.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\bin\Debug\MySql.Data.xml
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\obj\Debug\Mercado 2.csproj.AssemblyReference.cache
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\obj\Debug\Mercado 2.exe.config
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\obj\Debug\Mercado 2.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\obj\Debug\Mercado 2.csproj.CopyComplete
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\obj\Debug\Mercado 2.exe
+C:\Users\guilherme.csilva64\Downloads\Mercado 2\Mercado 2\obj\Debug\Mercado 2.pdb
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\Mercado 2.exe.config
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\Mercado 2.exe
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\Mercado 2.pdb
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\MySql.Data.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\Google.Protobuf.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\ZstdNet.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\System.Memory.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\System.Buffers.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\bin\Debug\MySql.Data.xml
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\obj\Debug\Mercado 2.csproj.AssemblyReference.cache
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\obj\Debug\Mercado 2.exe.config
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\obj\Debug\Mercado 2.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\obj\Debug\Mercado 2.csproj.CopyComplete
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\obj\Debug\Mercado 2.exe
+C:\Users\guilherme.csilva64\Documents\Projeto Mercado\Mercado 2\Mercado 2\obj\Debug\Mercado 2.pdb
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\Mercado 2.exe.config
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\Mercado 2.exe
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\Mercado 2.pdb
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\MySql.Data.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\Google.Protobuf.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\ZstdNet.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\System.Memory.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\System.Buffers.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\bin\Debug\MySql.Data.xml
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\obj\Debug\Mercado 2.csproj.AssemblyReference.cache
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\obj\Debug\Mercado 2.exe.config
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\obj\Debug\Mercado 2.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\obj\Debug\Mercado 2.csproj.CopyComplete
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\obj\Debug\Mercado 2.exe
+C:\Users\guilherme.csilva64\Documents\Todos arquivos Visual Studio guigu\Mercado 2\obj\Debug\Mercado 2.pdb
